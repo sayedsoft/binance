@@ -1,5 +1,5 @@
 {
-  "name": "binance",
+  "name": "binance-sayedsoft",
   "version": "2.0.27",
   "description": "Node.js connector for Binance's REST APIs and WebSockets, with TypeScript & integration tests.",
   "main": "lib/index.js",
